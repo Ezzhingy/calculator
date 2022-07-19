@@ -35,10 +35,11 @@ body {
     height: 460px;
 }
 
-.display-container {
+.display-container {    
     background-color: #99b68f;
     margin: 8px;
     border-radius: 10px;
+    height: 56.5px;
     width: 288px;
 }
 
