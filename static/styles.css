@@ -17,7 +17,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-
 }
 
 .calculator-container {
@@ -39,7 +38,7 @@ body {
     background-color: #99b68f;
     margin: 8px;
     border-radius: 10px;
-    height: 56.5px;
+    min-height: 56.5px;
     width: 288px;
 }
 
@@ -49,6 +48,7 @@ body {
     font-size: 40px;
     margin: 10px 0 10px 0;
     text-align: right;
+    word-wrap: break-word;
 }
 
 .column-container {
