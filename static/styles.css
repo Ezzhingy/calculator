@@ -9,7 +9,7 @@ body {
 
     display: flex;
     flex-direction: column;
-    height: 97vh;
+    min-height: 100vh;
 }
 
 .center {
@@ -88,7 +88,7 @@ body {
 .footer {
     display: flex;
     justify-content: center;
-    align-items: center;
+    margin-top: auto;
     font-family: Helvetica, sans-serif;
     font-size: 15px;
 }
